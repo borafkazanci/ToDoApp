@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.strike-through {
+  text-decoration: line-through;
+}
+
+.center-content {
+  margin: auto;
+  width: 50%;
+}
+
+ul {
+  list-style-type: none;
+}
